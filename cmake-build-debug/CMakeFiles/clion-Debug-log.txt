@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /tmp/postfix-to-expression-tree-project -B /tmp/postfix-to-expression-tree-project/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/postfix-to-expression-tree-project/cmake-build-debug

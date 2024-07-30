@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/postfix_to_expression_tree_project.dir/tree_node.cpp.o CMakeFiles/postfix_to_expression_tree_project.dir/tree.cpp.o CMakeFiles/postfix_to_expression_tree_project.dir/main.cpp.o -o postfix_to_expression_tree_project 
